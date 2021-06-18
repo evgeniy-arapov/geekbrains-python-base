@@ -1,0 +1,39 @@
+2021-05-31 10:01:38.315864 - list: None None
+2021-05-31 10:01:41.363790 - list: None None
+2021-05-31 10:01:45.414349 - list: None None
+2021-05-31 10:07:38.867312 - list
+2021-05-31 10:07:43.321565 - list
+2021-05-31 10:09:10.437045 - mkdir: new_dir
+2021-05-31 10:09:26.790365 - rename: dir new_dir
+2021-05-31 10:09:54.600603 - rename: dir => new_dir
+2021-05-31 10:10:31.321289 - rename: dir => new_dir
+2021-05-31 10:10:43.313885 - mkdir: dir
+2021-06-04 21:15:16.936242 - list
+2021-06-04 21:15:39.514855 - mkdir: super_dir
+2021-06-04 21:18:00.701007 - file: super_file.txt - super_content
+2021-06-04 21:18:54.275472 - file: super_file.txt - super_content
+2021-06-04 21:22:13.088707 - delete: super_dir
+2021-06-04 21:22:22.493842 - delete: super_file.txt
+2021-06-04 21:24:57.933784 - delete: super_file.txt
+2021-06-04 21:25:07.136295 - delete: dir
+2021-06-04 21:25:18.094475 - mkdir: super_dir
+2021-06-04 21:25:32.381685 - file: super_dir/super_file.txt - super_content
+2021-06-04 21:25:44.003717 - delete: super_dir
+2021-06-04 21:29:30.168502 - mkdir: super_dir
+2021-06-04 21:29:31.966760 - file: super_dir/super_file.txt - super_content
+2021-06-04 21:29:58.463193 - rename: super_dir - duper_dir
+2021-06-04 21:34:34.534013 - copy: duper_dir - super_dir
+2021-06-04 21:35:13.382447 - copy: duper_dir/super_file.txt - super_dir/duper_file.txt
+2021-06-04 21:35:44.567690 - delete: super_dir/super_file.txt
+2021-06-04 21:35:51.217788 - delete: super_dir
+2021-06-04 21:35:54.783577 - delete: duper_dir
+2021-06-04 21:43:04.577657 - cd: ..
+2021-06-04 21:43:24.108664 - cd: ..
+2021-06-04 21:43:41.175520 - cd: ..
+2021-06-04 21:43:44.378687 - cd: ../
+2021-06-04 21:43:58.072717 - cd: ../lesson10
+2021-06-04 21:46:03.294935 - mkdir: dir_2
+2021-06-04 22:12:35.751980 - play
+2021-06-04 22:13:26.444120 - play
+2021-06-04 22:14:58.999702 - mkdir: dir_2
+2021-06-04 22:15:09.269075 - mkdir: dir_3
